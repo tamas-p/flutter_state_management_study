@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "p01_mark" "\0"
+            VALUE "FileDescription", "flutter_state_management_study" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "p01_mark" "\0"
+            VALUE "InternalName", "flutter_state_management_study" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "p01_mark.exe" "\0"
-            VALUE "ProductName", "p01_mark" "\0"
+            VALUE "OriginalFilename", "flutter_state_management_study.exe" "\0"
+            VALUE "ProductName", "flutter_state_management_study" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
